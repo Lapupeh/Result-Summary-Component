@@ -24,7 +24,7 @@ function SummaryCard() {
       <h1>Summary</h1>
       <div className="test-summary">
           {data.map((item, i) => (
-          <div className={`test test-${i}`}>
+          <div key={i} className={`test test-${i}`}>
             <div className="test-category">
               <img src={item.icon} alt="icon"/>
               <h4>{item.category}</h4>
