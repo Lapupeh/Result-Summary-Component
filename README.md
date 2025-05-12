@@ -6,8 +6,8 @@ Users should be able to:
 - **Bonus**: Use the local JSON data to dynamically populate the content
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub solution](https://github.com/Lapupeh/Result-Summary-Component.git)
+- Live Site URL: [Result Summary Component](https://jovial-beignet-a27475.netlify.app/)
 
 ### Built with
 - Semantic HTML5 markup
