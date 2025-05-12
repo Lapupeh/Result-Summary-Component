@@ -7,7 +7,7 @@ Users should be able to:
 
 ### Links
 - Solution URL: [GitHub solution](https://github.com/Lapupeh/Result-Summary-Component.git)
-- Live Site URL: [Result Summary Component](https://jovial-beignet-a27475.netlify.app/)
+- Live Site URL: [Result Summary Component](https://chimerical-tapioca-5be480.netlify.app/)
 
 ### Built with
 - Semantic HTML5 markup
